@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 250">
+  <!-- Turkey simplified outline -->
+  <path d="
+    M 95 15
+    L 100 8 L 108 12 L 112 18
+    L 105 25 L 98 22 Z
+    M 108 12
+    L 130 10 L 145 15 L 160 12 L 175 8
+    L 200 5 L 230 8 L 260 10 L 290 12
+    L 320 8 L 350 5 L 380 8 L 410 10
+    L 440 8 L 470 5 L 500 10 L 530 15
+    L 555 20 L 570 30 L 575 45
+    L 570 55 L 555 65 L 540 70
+    L 520 75 L 500 80 L 480 85
+    L 460 92 L 440 100 L 420 108
+    L 400 115 L 385 118 L 370 115
+    L 355 108 L 340 100 L 325 92
+    L 310 95 L 295 100 L 280 108
+    L 265 115 L 250 120 L 235 128
+    L 220 135 L 210 140 L 200 145
+    L 190 148 L 180 145 L 170 138
+    L 160 130 L 150 125 L 140 128
+    L 130 135 L 125 140 L 118 145
+    L 110 148 L 105 142 L 108 135
+    L 115 128 L 120 120 L 118 112
+    L 112 105 L 108 98 L 105 88
+    L 102 78 L 100 68 L 98 58
+    L 95 48 L 92 38 L 90 28
+    L 88 20 L 92 18 Z
+  " fill="#e8f5e9" stroke="#2e7d32" stroke-width="2"/>
+
+  <!-- Thrace (European part) - small area on the left -->
+  <path d="
+    M 85 25 L 92 18 L 98 22 L 95 35 L 88 38 L 82 32 Z
+  " fill="#e8f5e9" stroke="#2e7d32" stroke-width="1.5"
+      opacity="0.8"/>
+
+  <!-- Grid lines for reference (light) -->
+  <g stroke="#ccc" stroke-width="0.3" opacity="0.3">
+    <line x1="100" y1="0" x2="100" y2="250"/>
+    <line x1="200" y1="0" x2="200" y2="250"/>
+    <line x1="300" y1="0" x2="300" y2="250"/>
+    <line x1="400" y1="0" x2="400" y2="250"/>
+    <line x1="500" y1="0" x2="500" y2="250"/>
+    <line x1="0" y1="50" x2="600" y2="50"/>
+    <line x1="0" y1="100" x2="600" y2="100"/>
+    <line x1="0" y1="150" x2="600" y2="150"/>
+    <line x1="0" y1="200" x2="600" y2="200"/>
+  </g>
+
+  <!-- City markers (reference points) -->
+  <circle cx="295" cy="82" r="2.5" fill="#1b5e20"/>
+  <text x="300" y="82" font-size="6" fill="#1b5e20" font-family="sans-serif">Ankara</text>
+
+  <circle cx="180" cy="105" r="2" fill="#1b5e20"/>
+  <text x="165" y="100" font-size="5" fill="#1b5e20" font-family="sans-serif">İzmir</text>
+
+  <circle cx="130" cy="62" r="2" fill="#1b5e20"/>
+  <text x="110" y="55" font-size="5" fill="#1b5e20" font-family="sans-serif">İstanbul</text>
+
+  <circle cx="370" cy="118" r="2" fill="#1b5e20"/>
+  <text x="355" y="125" font-size="5" fill="#1b5e20" font-family="sans-serif">Diyarbakır</text>
+
+  <circle cx="340" cy="95" r="2" fill="#1b5e20"/>
+  <text x="325" y="90" font-size="5" fill="#1b5e20" font-family="sans-serif">Kayseri</text>
+</svg>
